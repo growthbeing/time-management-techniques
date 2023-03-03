@@ -19,3 +19,9 @@ Here are some time management techniques that can help you be more productive an
 - **Learn to say no**: Avoid overcommitting yourself and learn to say no to requests that are not essential to your goals or priorities.
 
 Remember, time management is not about trying to fit more tasks into your day. It's about making the most of the time you have and focusing on what is most important. By using these techniques, you can improve your productivity, reduce stress, and achieve your goals more efficiently.
+
+<br><br>
+
+### Other resources
+
+- **Time Management Techniques** - [techniques.md](techniques.md)
