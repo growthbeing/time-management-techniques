@@ -1,4 +1,4 @@
-# Types of Time Management Techniques
+# Types of Time Management Techniques :clock12:
 
 Achieving work life balance is possible with effective time management. Learning time management tips will not only help you manage your time better but also boost personal productivity. With that said, here are some time management strategies you can try:
 
