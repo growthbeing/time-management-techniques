@@ -22,7 +22,7 @@ Remember, time management is not about trying to fit more tasks into your day. I
 
 <br><br>
 
-### Other resources
+### Other resources :book:
 
 - **Time Management Techniques** - [techniques.md](techniques.md)
 - **Clockify Time Management Techniques** - [https://clockify.me/time-management-techniques](https://clockify.me/time-management-techniques)
